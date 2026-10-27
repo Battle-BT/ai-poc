@@ -1,0 +1,28 @@
+{
+  "faults": [
+    {
+      "fault_id": "F001",
+      "device_id": "DEV-003",
+      "symptom": "电机过热",
+      "cause": "散热风扇堵塞",
+      "solution": "清理散热风扇，检查负载电流",
+      "date": "2026-08-15"
+    },
+    {
+      "fault_id": "F002",
+      "device_id": "DEV-001",
+      "symptom": "定位偏差",
+      "cause": "导轨润滑不足",
+      "solution": "补充导轨润滑脂，重新校准原点",
+      "date": "2026-09-02"
+    },
+    {
+      "fault_id": "F003",
+      "device_id": "DEV-003",
+      "symptom": "电机过热",
+      "cause": "轴承磨损",
+      "solution": "更换轴承，检查同轴度",
+      "date": "2026-10-10"
+    }
+  ]
+}

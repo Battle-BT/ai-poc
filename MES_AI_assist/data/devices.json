@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "device_id": "DEV-001",
+      "name": "1号机床",
+      "status": "运行中",
+      "fault": null
+    },
+    {
+      "device_id": "DEV-003",
+      "name": "3号机床",
+      "status": "停机",
+      "fault": "电机过热"
+    },
+    {
+      "device_id": "LINE-005",
+      "name": "5号产线",
+      "status": "运行中",
+      "fault": null
+    }
+  ]
+}

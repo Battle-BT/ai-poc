@@ -1,0 +1,47 @@
+{
+  "workers": [
+    {
+      "worker_id": "W001",
+      "name": "张三",
+      "team": "装配一组",
+      "skill_level": "A",
+      "skills": ["精密装配", "点胶", "光学对准"],
+      "module_experience": {
+        "MOD-001": 15,
+        "MOD-003": 12
+      }
+    },
+    {
+      "worker_id": "W002",
+      "name": "李四",
+      "team": "装配二组",
+      "skill_level": "B",
+      "skills": ["精密装配", "焊接"],
+      "module_experience": {
+        "MOD-001": 8,
+        "MOD-002": 10
+      }
+    },
+    {
+      "worker_id": "W003",
+      "name": "王五",
+      "team": "装配一组",
+      "skill_level": "A",
+      "skills": ["光学对准", "调试", "精密装配"],
+      "module_experience": {
+        "MOD-003": 20,
+        "MOD-004": 6
+      }
+    },
+    {
+      "worker_id": "W004",
+      "name": "赵六",
+      "team": "装配三组",
+      "skill_level": "C",
+      "skills": ["包装", "检验"],
+      "module_experience": {
+        "MOD-002": 3
+      }
+    }
+  ]
+}
